@@ -9,6 +9,9 @@ A site that's:
 Contact me [here](https://www.maxcampbell.dev/contact/name)
 ## My stats:
 [![Max's github stats](https://github-readme-stats.vercel.app/api?username=maxall41&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+## Tools
+
+![](https://img.shields.io/badge/Javascript -Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 
 <!--
 **maxall41/maxall41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
