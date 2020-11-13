@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+## I'm currently working on:
+[Daily News](https://dailynews.cool)
+A site that's:
+ A new way to get the news. Daily News is tailored to you, helps you avoid the trash, and at a price cheaper than the newspaper.
+## How to reach me:
+Contact me [here](https://www.maxcampbell.dev/contact/name)
 <!--
 **maxall41/maxall41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
