@@ -8,7 +8,7 @@ A site that's:
 ## How to reach me:
 Contact me [here](https://www.maxcampbell.dev/contact/name)
 ## My repo's
-[![Max's github stats](https://github-readme-stats.vercel.app/api?username=maxall41)](https://github.com/anuraghazra/github-readme-stats)
+[![Max's github stats](https://github-readme-stats.vercel.app/api?username=maxall41&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **maxall41/maxall41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
