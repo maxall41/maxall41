@@ -15,6 +15,10 @@ Contact me [here](https://www.maxcampbell.dev/contact/name)
 
 ![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/Language-Css-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Language-Html-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=Vue.js&logoColor=white&color=2bbc8a)
