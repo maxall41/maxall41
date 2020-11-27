@@ -21,6 +21,8 @@ Contact me [here](https://www.maxcampbell.dev/contact/name)
 
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
+
 <!--
 **maxall41/maxall41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
