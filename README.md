@@ -13,6 +13,10 @@ Contact me [here](https://www.maxcampbell.dev/contact/name)
 
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=Vue.js&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-Nuxt.js-informational?style=flat&logo=Nuxt.js&logoColor=white&color=2bbc8a)
@@ -25,7 +29,7 @@ Contact me [here](https://www.maxcampbell.dev/contact/name)
 
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
+
 
 <!--
 **maxall41/maxall41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
