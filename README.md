@@ -5,7 +5,7 @@ I’m a front end web developer, backend programmer, and game developer based in
 A site that's:
  A new way to get the news. Daily News is tailored to you, helps you avoid the trash, and at a price cheaper than the newspaper.
 ## How to reach me:
-Contact me [here](https://www.maxcampbell.dev/contact/name)
+Contact me [here](https://www.maxcampbell.dev/)
 ## My stats:
 [![Max's github stats](https://github-readme-stats.vercel.app/api?username=maxall41&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ## Tools
