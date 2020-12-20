@@ -1,9 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I’m a front end web developer, backend programmer, and game developer based in San Francisco. I’m passionate about designing incredible experiences. I specialize in creating wonderful websites. And amazing gaming experiences.
 ## 💻 I'm currently working on:
-[Daily News](https://dailynews.cool)
-A site that's:
- A new way to get the news. Daily News is tailored to you, helps you avoid the trash, and at a price cheaper than the newspaper.
+A self landing automatic solid rocket fuel rocket.
 ## How to reach me:
 Contact me [here](https://www.maxcampbell.dev/)
 ## My stats:
