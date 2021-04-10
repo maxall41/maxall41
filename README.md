@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I’m a front end web developer, backend programmer, and game developer based in San Francisco. I’m passionate about designing incredible experiences. I specialize in creating wonderful websites. And amazing gaming experiences.
 ## 💻 I'm currently working on:
-A self landing automatic solid rocket fuel rocket.
+A self landing automatic solid rocket fuel rocket. And a goal based social media app. That trys to help you achieve your goals.
 ## How to reach me:
 Contact me [here](https://www.maxcampbell.dev/)
 ## My stats:
