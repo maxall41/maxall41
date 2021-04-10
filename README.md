@@ -36,6 +36,8 @@ Contact me [here](https://www.maxcampbell.dev/)
 
 ![](https://img.shields.io/badge/Deployment-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/Deployment-Docker-informational?style=flat&logo=Aws&logoColor=white&color=2bbc8a)
+
 
 
 <!--
