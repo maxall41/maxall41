@@ -3,7 +3,7 @@ I’m a front end web developer, backend programmer, and game developer based in
 ## 💻 I'm currently working on:
 A self landing automatic solid rocket fuel rocket. And a goal based social media app. That trys to help you achieve your goals.
 ## How to reach me:
-Contact me [here](https://www.maxcampbell.dev/)
+Contact me [here](https://maxall41.github.io/)
 ## My stats:
 [![Max's github stats](https://github-readme-stats.vercel.app/api?username=maxall41&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ## Tools
