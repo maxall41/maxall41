@@ -1,6 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I’m a front end web developer, backend programmer, and game developer based in San Francisco. I’m passionate about designing incredible experiences. I specialize in creating wonderful websites. And amazing gaming experiences.
-## 💻 I'm currently working on:
+I’m a front end web developer, bioengineer, and game developer based in San Francisco. I’m passionate about designing incredible experiences and improving human health.
 A custom game engine written in C++ that uses OpenGL under the hood to render graphics see it [here](https://github.com/maxall41/Flame)
 ## My stats:
 [![Max's github stats](https://github-readme-stats.vercel.app/api?username=maxall41&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
