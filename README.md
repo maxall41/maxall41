@@ -3,4 +3,3 @@ I’m a web developer, bioengineer, and game developer based in San Francisco. I
 
 ## My stats:
 [![Max's github stats](https://github-stats-j58zmloz6-maxall41.vercel.app/api?username=maxall41&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-stats-j58zmloz6-maxall41.vercel.app/api/top-langs/?username=maxall41&hide=csharp&theme=radical)
