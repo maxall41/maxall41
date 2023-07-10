@@ -3,7 +3,7 @@ I’m a web developer, bioengineer, and game developer based in San Francisco. I
 
 ## My stats:
 [![Max's github stats](https://github-readme-stats.vercel.app/api?username=maxall41&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxall41)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxall41&hide=csharp)
 ## Tools
 
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
