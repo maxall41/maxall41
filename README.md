@@ -2,4 +2,4 @@
 I’m a bioengineer passionate about improving human health.
 
 ## My stats:
-[![Max's github stats](https://github-stats-j58zmloz6-maxall41.vercel.app/api?username=maxall41&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Max's github stats](assets/stats.svg)](stats)
