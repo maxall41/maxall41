@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Max Campbell's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 56, Total Commits in 2024 : 56, Total PRs: 155, Total Issues: 46, Contributed to (last year): 8</desc>
+        <desc id="descId">Total Stars Earned: 56, Total Commits in 2024 : 56, Total PRs: 155, Total Issues: 46, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 72.15490575840876;
+        stroke-dashoffset: 72.0005387329886;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >898</text>
+      >913</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >8</text>
+      >10</text>
     </g>
   </g>
     </svg>
