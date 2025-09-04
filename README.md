@@ -9,5 +9,5 @@ I'm a bioengineer working on ML models for developing better enzymes.
   * PDBTBX: https://github.com/douweschulte/pdbtbx
   * Hearth: https://github.com/HearthAudio/Hearth
 * 🔬 Research:
-  * VIPER: A General Model for Prediction of Enzyme Substrates:  https://www.biorxiv.org/content/10.1101/2024.06.21.599972v3 | SOLE AUTHOR |
-  * Crowdsourced Protein Design: Lessons From the Adaptyv EGFR Binder Competition: https://www.biorxiv.org/content/10.1101/2025.04.17.648362v2 | MIDDLE AUTHOR |
+  * **SOLE AUTHOR** VIPER: A General Model for Prediction of Enzyme Substrates:  https://www.biorxiv.org/content/10.1101/2024.06.21.599972v3 
+  * **MIDDLE AUTHOR** Crowdsourced Protein Design: Lessons From the Adaptyv EGFR Binder Competition: https://www.biorxiv.org/content/10.1101/2025.04.17.648362v2
